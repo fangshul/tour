@@ -1,0 +1,33 @@
+{
+  "name": "sugtour",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.6.4",
+    "echarts": "^4.7.0",
+    "jquery": "^3.4.1",
+    "marked": "^0.8.2",
+    "mavon-editor": "^2.8.3",
+    "vue": "^2.6.11",
+    "vue-baidu-map": "^0.21.22",
+    "vue-echarts": "^5.0.0-beta.0",
+    "vue-jsonp": "^0.1.8",
+    "vue-resource": "^1.5.1",
+    "vue-router": "^3.1.5"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.2.0",
+    "@vue/cli-plugin-router": "~4.2.0",
+    "@vue/cli-service": "~4.2.0",
+    "jquery": "^3.4.1",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
